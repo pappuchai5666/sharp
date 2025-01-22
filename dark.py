@@ -10,7 +10,7 @@ from threading import Thread
 from pymongo import MongoClient
 
 # Configuration
-TOKEN '7549904403:AAFfmM8xcTRxH8294Rz22V8BlwRzobNlOr4'
+TOKEN = '7549904403:AAFfmM8xcTRxH8294Rz22V8BlwRzobNlOr4'
 ADMIN_USER_ID = 7240083426
 MONGO_URI = 'mongodb+srv://VIKASH:BadnamBadshah@cluster0.jv9he.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true' # Update with your MongoDB URI
 
