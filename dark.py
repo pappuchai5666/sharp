@@ -420,7 +420,7 @@ def get_status(active_inactive,):
     # Create the status message with dynamic subscription status
     server_status = "🟢 SERVERS AVAILABLE"  # Automatically set server status to AVAILABLE
     status_message = (
-        "⚡️ 𝗣𝗥𝗜𝗡𝗖𝗘⋆𝗗𝗗𝗢𝗦⋆𝗦𝗧𝗔𝗧𝗨𝗦 ⚡️\n"
+        "⚡️ 𝙏𝙖𝙣𝙞𝙨𝙝𝙠𝙖⋆𝗗𝗗𝗢𝗦⋆𝗦𝗧𝗔𝗧𝗨𝗦 ⚡️\n"
         "━━━━━━━━━━━━━━━\n"
         f"👤 𝗨𝘀𝗲𝗿's💎 𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:\n"
         f"• Status: ❌ {active_inactive}\n"
